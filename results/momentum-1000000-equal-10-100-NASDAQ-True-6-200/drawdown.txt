@@ -1,0 +1,4 @@
+len,259
+drawdown,0.1740002370210015
+moneydown,1740.0023702100152
+max,AutoOrderedDict([('len', 259), ('drawdown', 0.1740002370210015), ('moneydown', 1740.0023702100152)])

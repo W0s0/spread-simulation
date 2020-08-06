@@ -1,0 +1,10 @@
+backtrader
+numpy
+datetime
+argparse
+pandas
+collections
+random
+matplotlib==3.2.2
+shutil
+math
