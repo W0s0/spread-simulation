@@ -1,9 +1,9 @@
-# Examining the impact of transaction cost at Momentum and Contrarian Strategies
+# Examining the impact of transaction cost on Momentum and Contrarian Strategies
 
-This project opts to simulate Contrarian and Momentum strategies over a specified period in order to examine the impact of the transaction cost. In this implementation transaction costs are calculated via Roll’s model. 
+This project opts to simulate Contrarian and Momentum strategies over a specified period to examine the impact of transaction costs. In this implementation, transaction costs are calculated via Roll’s model. 
 
 ## Data
-The stock data are stored as a filesystem database which is created via dataDownload.m matlab file.
+The stock data are stored as a filesystem database created via a dataDownload.m matlab file.
 
 ## Required packages:
 1. datetime
